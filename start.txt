@@ -1,0 +1,5 @@
+resolusi
+-  membuat table
+- membuat login
+- membuat register
+- membuat bahan
